@@ -1,0 +1,26 @@
+[
+    {   
+        "id":1,
+        "Adress":"14th Main Road, AGS Layout Bangalore,PIN-590652"
+    },
+    {   
+        "id":2,
+        "Adress":"11th Main Road, Vijay Nagar,Mysore,PIN-590633"
+    },
+    {   
+        "id":3,
+        "Adress":"11th Main Road, Bhagya Nagar,Belagavi,PIN-590001"
+    },
+    {   
+        "id":4,
+        "Adress":"7th Main Road, Aravind Nagar,Hubli,PIN-590087"
+    },
+    {   
+        "id":5,
+        "Adress":"10th Main Road, Hampadakatte,Manglore,PIN-590078"
+    },
+    {   
+        "id":6,
+        "Adress":"18th Main Road,hanuman nagar,Ahmedabad,PIN-590089"
+    }
+]
